@@ -1,4 +1,4 @@
-### For CS420, Made By Wonjoon Jun 
+### Scheduler Visualization
 (Please report any problems to junwonjoon41@gmail.com)
 # Interactive Demonstration of Schedulers
 ## Streamlit Page
